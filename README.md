@@ -30,3 +30,11 @@ The core script implements the full lifecycle of a computer vision model using t
 ## 📂 Output Structure
 
 All outputs (checkpoints, results, predictions) are organized within specified folders on Google Drive, such as `/content/gdrive/MyDrive/yolo_outputs` and `/content/gdrive/MyDrive/known`.
+
+<p align="center">
+  <img src="result1.jpg" width="500"/>
+</p>
+
+<p align="center">
+  <img src="result2.jpg" width="500"/>
+</p>
