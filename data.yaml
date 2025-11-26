@@ -1,0 +1,14 @@
+path: /content/gdrive/MyDrive/Colab Notebooks/dataset3
+train: images/train
+val: images/train
+test: images/test
+
+nc: 5
+names: ['biscuit', 'box', 'can', 'mobile', 'mouse']
+
+roboflow:
+  workspace: mohamin
+  project: obj_detection-tzfqf
+  version: 3
+  license: Public Domain
+  # url: https://universe.roboflow.com/mohamin/obj_detection-tzfqf/dataset/3
